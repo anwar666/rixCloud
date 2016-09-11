@@ -1,10 +1,14 @@
 <img src="http://i.imgur.com/WRF4yZw.png">
 <img src="http://i.imgur.com/a9QLzro.png">
-# rixCloud-
-Shadowsocks,VPN,主机等大提供商销售模板
-
-
+<img src="http://i.imgur.com/XxrVcs8.png">
+# rixCloud 加速服务提供商销售模板
 <hr>
+
+####新增：
+<li>DaoVoice 接口，请注册后接入</li>
+<li>更新文件结构，更合理</li>
+<li>更新使用条款等</li>
+
 ###在仔细修改后，即可使用：
 <li>favicon.ico
 <li>img中相应图片
