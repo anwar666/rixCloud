@@ -2,8 +2,7 @@
 <img src="http://i.imgur.com/a9QLzro.png">
 <img src="http://i.imgur.com/XxrVcs8.png">
 <img src="http://i.imgur.com/YqnwpwL.png">
-<h2 style="text-align:center;font-family:'Microsoft Yahei','微软雅黑';">rixCloud 加速服务提供商销售模板</h2>
-<hr>
+##rixCloud 加速服务提供商销售模板
 
 ####新增：
 <li>DaoVoice 接口，请注册后接入</li>
