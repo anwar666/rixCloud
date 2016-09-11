@@ -1,3 +1,5 @@
+<img src="http://imgur.com/WRF4yZw">
+
 # rixCloud-
 Shadowsocks,VPN,主机等大提供商销售模板
 
